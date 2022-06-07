@@ -16,7 +16,6 @@ export default function Weather() {
   };
 
   return (
-
     <div className="weather-app-wrapper">
       <div className="weather-app">
         <Search />
@@ -54,7 +53,7 @@ export default function Weather() {
         <div className="weather-forecast" id="forecast"></div>
       </div>
       <small>
-        <a href="https://github.com/orpulick/My_weather_app">
+        <a href="https://github.com/orpulick/weather-react">
           Open sourced code
         </a>
         & Hosted by
